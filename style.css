@@ -1,0 +1,28 @@
+body{
+   background-color: #EADEB8;
+}
+.header{
+    background-color: rgb(211, 195, 176);
+    border: 2px solid rgb(149, 130, 102) ;
+    height: 6em;
+}
+.header .logo{
+    float: left;
+    margin-top: 15px ;
+    margin-left: 15px;
+    margin-right: 15px ;
+}
+.header .slogan{
+    font-size: 30px;
+}
+.video{
+    text-align: center;
+}
+.footer{
+    background-color: rgb(211, 195, 176);
+    border: 2px solid rgb(149, 130, 102) ;
+    height: 3em;
+}
+.main{
+    padding: 10px;
+}
